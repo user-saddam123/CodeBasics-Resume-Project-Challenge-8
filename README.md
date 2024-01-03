@@ -1,9 +1,13 @@
 # CRPC8: Mitron Bank: Analysis for New Credit Card Launch 
 
 ## Created by- Saddam Ansari @Aspiring Data Analyst [Linkeldin Profile](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
-## Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/mitron-bank-credit-card-analysis-crpc8-by---saddam-ansari)
+### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/mitron-bank-credit-card-analysis-crpc8-by---saddam-ansari)
+### Linkeldin post for this project with presentation video [Link](https://www.linkedin.com/posts/saddam-ansari-dataanalyst_codebasicsresumeprojectchallenge-like-comment-activity-7148218554763448320-Qd6b?utm_source=share&utm_medium=member_desktop)
 
 
+
+
+#
 ### About Mitron Bank
 
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
@@ -162,3 +166,50 @@ Males exhibit a higher income utilization rate at 44.39%, compared to females at
 ![a12](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/32e2f3c2-03f9-4515-812e-0c99ff2bd18b)
 
 Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
+#
+
+## Table Grid View Page:
+
+![3 page](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/5e5baf0d-0dc8-47c1-a153-3d2ed1fa7116)
+
+In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of individual customer details, facilitating more nuanced and personalized analyses.
+
+#
+## Recomendation for Next Credit Card
+To improve the likelihood of credit card usage among the identified target customers (salaried employees, self-employed individuals, and freelancers), consider incorporating the following key features in the credit card:
+
+#### Tailored Rewards Program:
+
+Create a rewards program that aligns with the spending patterns of salaried employees, self-employed individuals, and freelancers. This could include cash back on common categories of spending such as groceries, dining, and business-related expenses.
+
+#### Flexible Payment Options:
+
+Offer flexible payment plans to accommodate different income structures. This could include customizable monthly payment options, allowing users to adjust their payment schedule based on their cash flow.
+
+#### Expense Tracking and Budgeting Tools:
+
+Provide built-in tools or partner with budgeting apps to help users track their expenses, categorize spending, and set budget goals. This can be particularly beneficial for freelancers and self-employed individuals managing variable income.
+
+#### Low Annual Fees and Interest Rates:
+
+Keep annual fees competitive and offer reasonable interest rates to attract and retain customers. Consider providing introductory offers, lower rates for loyal customers, or special promotions for specific spending categories.
+
+#### Contactless and Mobile Payments:
+
+Ensure the credit card supports contactless payments and integrates with popular mobile payment platforms. This adds convenience for users who prefer digital and contactless transactions.
+
+#### Security Features:
+
+Implement advanced security features such as fraud alerts, biometric authentication, and virtual card numbers to enhance the safety of transactions. Communicate these security measures to build trust among users.
+#
+
+
+#### Don't forget to give a start to this project because its motivate me and also please follow me on [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/). and Please consider me for any internship or entry level data analyst role. I need a job or internship even thought its a free or paid. Thanks in Advance.
+
+Created & Presented by -Saddam Ansari @ Aspiring Data Analyst
+
+
+Date- 03/01/2024
+
+
+Place- Bihar, India
