@@ -1,9 +1,7 @@
-# CodeBasics-Resume-Project-Challenge-8
+# CodeBasics-Resume-Project-Challenge-8  Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/mitron-bank-credit-card-analysis-crpc8-by---saddam-ansari)
 
 ## Provide Insights to the Product Strategy Team in the Banking Domain / Mitron Bank: Analysis for New Credit Card Launch 
 #### Created by- Saddam Ansari
-
-### Live Dashboard at Novypro [link](https://www.novypro.com/project/mitron-bank-credit-card-analysis-crpc8-by---saddam-ansari)
 
 ### About Mitron Bank
 
