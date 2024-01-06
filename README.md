@@ -4,6 +4,16 @@
 ### Live Dashboard at Novypro [Live_link_Novypro](https://www.novypro.com/project/mitron-bank-credit-card-analysis-crpc8-by---saddam-ansari)
 ### Linkeldin post for this project with presentation video [Link](https://www.linkedin.com/posts/saddam-ansari-dataanalyst_codebasicsresumeprojectchallenge-like-comment-activity-7148218554763448320-Qd6b?utm_source=share&utm_medium=member_desktop)
 
+#
+## Table of Content
+1. [About Mitron Bank](#about-mitron-bank)
+2. [Objective of the Project](#objective-of-the-project)
+3. [Problem Statment](#problem-statment)
+4. [Demographic Classification](#demographic-classification)
+5. [Income Utilization & Spending Analysis](#income-utilization--spending-analysis)
+6. [Table Grid View Page](#table-grid-view-page)
+7. [Recomendation](#recomendation-for-next-credit-card)
+8. [Footer](#dont-forget-to-give-a-start-to-this-project-because-its-motivate-me-and-also-please-follow-me-on-linkeldin-and-please-consider-me-for-any-internship-or-entry-level-data-analyst-role-i-need-a-job-or-internship-even-thought-its-a-free-or-paid-thanks-in-advance)
 
 
 
