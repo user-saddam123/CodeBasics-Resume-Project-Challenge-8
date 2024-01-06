@@ -18,15 +18,18 @@
 
 
 #
-### About Mitron Bank
+### About Mitron Bank 
+[🔁Home](#table-of-content)
 
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 
-### Objective of the Project
+### Objective of the Project 
+ [🔁Home](#table-of-content)
 
 The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends. 
 
-### Problem Statment
+### Problem Statment   
+[🔁Home](#table-of-content)
  * Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
    
  * Avg income utilisation %: Find the average income utilisation % of customers (avg_spends/avg_income). This will be your key metric. The higher the average income utilisation %, the more is their likelihood to use credit cards.
@@ -39,8 +42,8 @@ The objective is to analyze this data and provide actionable, data-driven recomm
 #
 
 
-## Demographic Classification:
-
+## Demographic Classification:   
+[🔁Home](#table-of-content)
 For demographic classification, I have conducted a thorough customer demographic analysis using Power BI, and here are the key findings presented in a visually engaging manner:
 
 ![Page 1](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/7eadc5bd-1c49-4073-8e37-b78f81375063)
@@ -90,8 +93,8 @@ The dataset encompasses a substantial pool of 4000 customers, forming the founda
  * Unmarried customers, though a smaller segment, still constitute a substantial 21.6% of our customer base.
 #
 
-## Income Utilization & Spending Analysis
-
+## Income Utilization & Spending Analysis  
+ [🔁Home](#table-of-content)
 In pursuit of illuminating critical insights into customer spending patterns and understanding the average income utilization across diverse segments, a dedicated analytical exploration has been undertaken. To facilitate a comprehensive understanding, a bespoke "Customers Spend Analysis" page has been meticulously crafted within Power BI. This page serves as the epicenter for unraveling intricate details, housing a plethora of Key Performance Indicators (KPIs) and insightful charts and graphs.
 
 ![Screenshot 2024-01-01 174050](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/71827241-ce42-49cd-a7a0-380143a5c138)
@@ -178,14 +181,15 @@ Males exhibit a higher income utilization rate at 44.39%, compared to females at
 Singles show a utilization rate of 43.06%, slightly surpassing married individuals at 42.77%.
 #
 
-## Table Grid View Page:
-
+## Table Grid View Page:  
+ [🔁Home](#table-of-content)
 ![3 page](https://github.com/user-saddam123/CodeBasics-Resume-Project-Challenge-8/assets/123800896/5e5baf0d-0dc8-47c1-a153-3d2ed1fa7116)
 
 In addition to these insights, a third page has been dedicated to a detailed Table Grid View, offering a granular examination of all customer data. This tabular format enables an in-depth exploration of individual customer details, facilitating more nuanced and personalized analyses.
 
 #
 ## Recomendation for Next Credit Card
+[🔁Home](#table-of-content)
 To improve the likelihood of credit card usage among the identified target customers (salaried employees, self-employed individuals, and freelancers), consider incorporating the following key features in the credit card:
 
 #### Tailored Rewards Program:
@@ -213,7 +217,7 @@ Ensure the credit card supports contactless payments and integrates with popular
 Implement advanced security features such as fraud alerts, biometric authentication, and virtual card numbers to enhance the safety of transactions. Communicate these security measures to build trust among users.
 #
 
-
+ [🔁Home](#table-of-content)
 #### Don't forget to give a start to this project because its motivate me and also please follow me on [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/). and Please consider me for any internship or entry level data analyst role. I need a job or internship even thought its a free or paid. Thanks in Advance.
 
 Created & Presented by -Saddam Ansari @ Aspiring Data Analyst
